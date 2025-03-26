@@ -43,7 +43,7 @@
   </a> &nbsp;&nbsp;
   
 
-  <a href="https://www.instagram.com/itz_selva_30/" target="_blank">
+  <a href="https://www.instagram.com/_.itz._selva/" target="_blank">
     <img align="center" alt="selva-it21 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 
